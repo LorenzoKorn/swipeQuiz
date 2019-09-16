@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SwipeQuiz</string>
+    <string name="instruction_title">Quiz instructions</string>
+    <string name="instructions">Swipe left for true, swipe right for false. Click on the question for the answer</string>
+    <string name="correct">Correct!</string>
+    <string name="incorrect">Wrong…</string>
+</resources>
